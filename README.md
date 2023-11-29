@@ -6,7 +6,7 @@ Installation requirements:
 
 To run the service, execute the command `./gradlew run`.
 
-You will be asked to implement **either**:
+Example questions:
 
 * A solution with tests
     * GET /users
